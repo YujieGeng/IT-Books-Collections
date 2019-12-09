@@ -1,2 +1,11 @@
 # IT-Books-Collections
-it contains the many IT books like java, go, python,big data, web development,data science, machine learning,mathematics etc.
+<big>It contains  many IT books like<big>
+  - Java, 
+  - Golang, 
+  - Python,
+  - Big data, 
+  - Web development,
+  - Data science, 
+  - Machine learning,
+  - Mathematics etc.
+etc.....
