@@ -7,5 +7,5 @@
   - Web development,
   - Data science, 
   - Machine learning,
-  - Mathematics etc.
+  - Mathematics 
 etc.....
